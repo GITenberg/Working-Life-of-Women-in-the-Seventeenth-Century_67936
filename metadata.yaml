@@ -1,0 +1,27 @@
+_repo: Working-Life-of-Women-in-the-Seventeenth-Century_67936
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clark, Alice
+    gutenberg_agent_id: '54541'
+    url: http://www.gutenberg.org/2009/agents/54541
+description: ''
+gutenberg_issued: '2022-04-26'
+identifiers:
+  gutenberg: '67936'
+language: en
+pgterms:marc904: https://archive.org/details/workinglifeofwom00claruoft
+pgterms:marc905: 20210622064216clark
+pgterms:marc906: '1919'
+pgterms:marc907: UK
+production_note: Fay Dunn, Barry Abrahamsen, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: UK :George Routledge & Sons, Ltd.,1919.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Working Life of Women in the Seventeenth Century
+url: http://www.gutenberg.org/ebooks/67936
