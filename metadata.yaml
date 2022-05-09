@@ -1,11 +1,16 @@
 _repo: Working-Life-of-Women-in-the-Seventeenth-Century_67936
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67936-h/images/cover.jpg
 creator:
   author:
     agent_name: Clark, Alice
     gutenberg_agent_id: '54541'
     url: http://www.gutenberg.org/2009/agents/54541
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67936#Working-Life-of-Women-in-the-Seventeenth-Century
 gutenberg_issued: '2022-04-26'
 identifiers:
   gutenberg: '67936'
